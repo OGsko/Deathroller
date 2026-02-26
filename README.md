@@ -5,7 +5,7 @@ The deathrolling is when you and another player bets with ingame curency and you
 
 Here is a youtube video by the contentcreater UberDanger that kind of sets the tone for what deathrolling is: https://www.youtube.com/watch?v=jrJap2Kx-qs 
 
--My vision is to have you play against the computer, where you bet the gold in your goldreserve, and you go back and forth intil you or the computer hits 0. If you win, you get more gold in your reserve, and if you lose you lose the gold you were betting. 
+- My vision is to have you play against the computer, where you bet the gold in your goldreserve, and you go back and forth intil you or the computer hits 0. If you win, you get more gold in your reserve, and if you lose you lose the gold you were betting. 
 
 ## Current state
 ### ===2026-02-26===
